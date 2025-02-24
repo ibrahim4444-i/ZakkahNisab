@@ -1,7 +1,5 @@
 document.getElementById("check").addEventListener(
-  "click",
-
-  function () {
+  "click",function () {
     const nisab = 2000000;
 
     const name = document.getElementById("zakat").value.trim();
