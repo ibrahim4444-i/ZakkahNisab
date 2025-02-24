@@ -1,1 +1,1 @@
-# ZakkahNisab
+# ZakkahNisab, A zakkah nisab calculator 
